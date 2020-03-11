@@ -9,9 +9,9 @@ data = json.loads(response.text)
 print(number)
 
 for v in data:
-    if number in v['sNumber']:
+    if number in v['number']:
         answer = v["subject"],v["time"],v["room"]
-print(answer)
+        print(answer)
 
 # if example in inp:
 #     cleaned = inp[3:]
