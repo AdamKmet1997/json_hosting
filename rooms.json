@@ -2,7 +2,7 @@
     {
         "date": [
             "Monday",
-            "Tueday",
+            "Tuesday",
             "Thursday"
         ],
         "time": ["10:00",
@@ -16,7 +16,7 @@
     },
     {
         "date": [
-            "Tueday",
+            "Tuesday",
             "Wednesday",
             "Friday"
         ],
@@ -35,7 +35,7 @@
     {
         "date": [            
             "Monday",
-            "Tueday",
+            "Tuesday",
             "Thursday",
             "Friday"],
         "time":[ "09:00",
